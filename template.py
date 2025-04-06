@@ -18,7 +18,8 @@ list_of_files = [
     "voice_chat/pipeline/assistant.py",
     "Notebooks/experiment.ipynb",
     "main.py",
-    "mahabharat_rag/logger.py"
+    "voice_chat/logger.py",
+    "voice_chat/exceptions.py",
 ]
 
 def file_creator(list_of_files):
